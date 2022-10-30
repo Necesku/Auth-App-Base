@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "Necesku",
+      "pass": "$2b$10$pNy9tXrpwkDp4XpoHC0XHujviHuNzXIQMSd4e7OAx6QeYksww66Km",
+      "admin": true
+    },
+    {
+      "username": "Necesku1",
+      "pass": "$2b$10$ulEY87s2h63Fel/YOFFt7uwEtpzWSN2TnBNPNqKzFOUB5j5WEZpnm",
+      "admin": false
+    }
+  ]
+}
